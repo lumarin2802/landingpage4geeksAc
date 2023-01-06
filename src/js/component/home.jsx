@@ -16,17 +16,17 @@ const Home = () => {
 			<NavBar />
 			<Jumbotron />
 			<div class="container text-center">
-  	<div class="row">
-    <div class="col-lg-3">
+  	<div className="row">
+    <div className="col-lg-3">
 	<Card />    
 	</div>
-    <div class="col-lg-3">
+    <div className="col-lg-3">
 	<Card />
     </div>
-    <div class="col-lg-3">
+    <div className="col-lg-3">
 	<Card />
     </div>
-	<div class="col-lg-3">
+	<div className="col-lg-3">
 	<Card />
     </div>
   </div>
