@@ -1,7 +1,7 @@
 import React from "react";
 
 
-const Jumbotron = function () {
+const Jumbotron = () => {
     return (
 <h1>Jumbotron</h1>
     )
